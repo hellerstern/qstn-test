@@ -1,0 +1,28 @@
+p, div {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: "Volkhov-BoldItalic";
+  src: url('./assets/fonts/volkhov/Volkhov-BoldItalic.ttf');
+}
+@font-face {
+  font-family: "Volkhov-Bold";
+  src: url('./assets/fonts/volkhov/Volkhov-Bold.ttf');
+}
+@font-face {
+  font-family: "Volkhov-Italic";
+  src: url('./assets/fonts/volkhov/Volkhov-Italic.ttf');
+}
+@font-face {
+  font-family: "Volkhov-Regular";
+  src: url('./assets/fonts/volkhov/Volkhov-Regular.ttf');
+} 
+
+
+
+@font-face {
+  font-family: 'Poppins-Regular';
+  src: url('./assets/fonts/poppins/Poppins-Regular.ttf');
+}
